@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--https://shields.io/category/social-->
-[![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
+[![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway) [![](https://img.shields.io/nuget/v/Built.Mongo.Repository.svg) ![](https://img.shields.io/nuget/dt/Built.Mongo.Repository.svg)](https://www.nuget.org/profiles/kingreatwill)
+
+
 
 [![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=["stars"]&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
+-->
 <!--https://github.com/umutphp/github-action-dynamic-profile-page-->
 
 
