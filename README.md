@@ -1,16 +1,31 @@
 ### Hi there 👋
 **Languages and Tools:**  
-
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=bigdata&color=#40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=microservices&color=#40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=research&message=service-mesh&color=#ffa500"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=research&message=artificial-intelligence&color=#ffa500"></code> 
+-->
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=java&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=python&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=go&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=csharp&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=vue&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=flutter&color=40ba12"></code>
+
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mysql&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mssql&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=elastic&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mongo&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=redis&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=cassandra&color=40ba12"></code>
+
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=bigdata&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=microservices&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=research&message=service-mesh&color=ffa500"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=research&message=artificial-intelligence&color=ffa500"></code> 
 <!--
 **kingreatwill/kingreatwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
