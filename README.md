@@ -8,22 +8,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
 -->
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=java&color=40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=python&color=40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=go&color=40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=csharp&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=python&color=40ba12&logo=python"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=go&color=40ba12&logo=go"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=csharp&color=40ba12&logo=c#"></code> 
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=vue&color=40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=flutter&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=flutter&color=40ba12&logo=flutter"></code>
 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mysql&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mysql&color=40ba12&logo=mysql"></code>
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mssql&color=40ba12"></code>
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=elastic&color=40ba12"></code>
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mongo&color=40ba12"></code>
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=redis&color=40ba12"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=elastic&color=40ba12&logo=elasticsearch"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=mongo&color=40ba12&logo=mongodb"></code>
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=redis&color=40ba12&logo=redis"></code>
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=cassandra&color=40ba12"></code>
 
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=bigdata&color=40ba12"></code> 
-<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=microservices&color=40ba12"></code> 
+<code><img height="20" src="https://img.shields.io/static/v1?label=used&message=microservices&color=40ba12&logo=kubernetes"></code> 
 <code><img height="20" src="https://img.shields.io/static/v1?label=research&message=service-mesh&color=ffa500"></code> 
 <code><img height="20" src="https://img.shields.io/static/v1?label=research&message=artificial-intelligence&color=ffa500"></code> 
 <!--
