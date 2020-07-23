@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
+[![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
