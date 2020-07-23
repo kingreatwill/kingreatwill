@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--https://shields.io/category/social-->
+[![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 
-[![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
+[![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=["stars"]&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
