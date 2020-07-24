@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--https://shields.io/category/social-->
-[![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway) [![](https://img.shields.io/nuget/v/Built.Mongo.Repository.svg) ![](https://img.shields.io/nuget/dt/Built.Mongo.Repository.svg)](https://www.nuget.org/profiles/kingreatwill)
+[![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway) [![](https://img.shields.io/nuget/v/Built.Mongo.Repository.svg?logo=nuget) ![](https://img.shields.io/nuget/dt/Built.Mongo.Repository.svg?logo=nuget)](https://www.nuget.org/profiles/kingreatwill)
 
 
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
