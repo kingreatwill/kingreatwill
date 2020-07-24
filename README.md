@@ -7,6 +7,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
+https://img.shields.io/badge/license-Apache2.0-blue.svg 规律:文字-文字-颜色
+https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java
 -->
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java"></code> 
 <code><img height="20" src="https://img.shields.io/static/v1?label=used&message=python&color=40ba12&logo=python"></code> 
