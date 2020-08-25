@@ -9,6 +9,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
 https://img.shields.io/badge/license-Apache2.0-blue.svg 规律:文字-文字-颜色
 https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java
+
+仓库大小
+https://img.shields.io/github/repo-size/openjw/open?style=flat-square
 -->
 <code>
   <a href="https://github.com/openjw/open/tree/master/java">
