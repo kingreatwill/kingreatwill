@@ -12,6 +12,9 @@ https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java
 
 仓库大小
 https://img.shields.io/github/repo-size/openjw/open?style=flat-square
+
+每个国家计数器
+http://s05.flagcounter.com/index.html
 -->
 <code>
   <a href="https://github.com/openjw/open/tree/master/java">
