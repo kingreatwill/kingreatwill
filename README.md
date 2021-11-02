@@ -132,7 +132,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=[%22stars%22]&show_icons=true&theme=gruvbox&line_height=27" alt="kingreatwill's github stats" />
 </a>
+
 **Wakatime Week Stats:**
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wcoder&layout=compact" />
 
 
