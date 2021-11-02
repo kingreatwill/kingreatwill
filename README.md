@@ -1,5 +1,5 @@
 ### Hi there 👋
-Personal site: [wcoder](http://wcoder.com)
+Personal site: [wcoder](http://wcoder.com).
 
 **Languages and Tools:**  
 <!--
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 <!--https://shields.io/category/social-->
 [![GitHub stars](https://img.shields.io/github/stars/BuiltCloud/Ocelot.GrpcHttpGateway?style=social) ![GitHub forks](https://img.shields.io/github/forks/BuiltCloud/Ocelot.GrpcHttpGateway?style=social)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway) [![](https://img.shields.io/nuget/v/Built.Mongo.Repository.svg?logo=nuget) ![](https://img.shields.io/nuget/dt/Built.Mongo.Repository.svg?logo=nuget)](https://www.nuget.org/profiles/kingreatwill)
 
-**kingreatwill's github stats:**  
+**Kingreatwill's github stats:**  
 
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github.com/kingreatwill/github-stats/raw/master/generated/overview.svg" />
