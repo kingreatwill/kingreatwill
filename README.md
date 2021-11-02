@@ -125,6 +125,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github.com/kingreatwill/github-stats/raw/master/generated/languages.svg" />
 </a>
+
+
+**Wakatime Week Stats:**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wcoder&layout=compact" />
+
+
+
+
+
 <!--
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill&theme=radical&hide_langs_below=1" />
@@ -132,11 +142,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=[%22stars%22]&show_icons=true&theme=gruvbox&line_height=27" alt="kingreatwill's github stats" />
 </a>
-
-**Wakatime Week Stats:**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wcoder&layout=compact" />
-
 
 [![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=["stars"]&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 -->
