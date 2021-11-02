@@ -117,16 +117,27 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
+  <img align="center" src="https://github.com/kingreatwill/github-stats/raw/master/generated/overview.svg" />
+</a>
+<a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
+  <img align="center" src="https://github.com/kingreatwill/github-stats/raw/master/generated/languages.svg" />
+</a>
+<!--
+<a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=[%22stars%22]&show_icons=true&theme=gruvbox&line_height=27" alt="kingreatwill's github stats" />
 </a>
-<!--
+
 [![kingreatwill's github stats](https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=["stars"]&show_icons=true&theme=gruvbox&repo=BuiltCloud/Ocelot.GrpcHttpGateway)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 -->
 
 <!--
+https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill
+https://github.com/kingreatwill/github-stats/raw/master/generated/languages.svg
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill&theme=radical&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingreatwill&hide=[%22stars%22]&show_icons=true&theme=gruvbox&line_height=27" alt="kingreatwill's github stats" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingreatwill)](https://github.com/BuiltCloud/Ocelot.GrpcHttpGateway)
 -->
 <!--https://github.com/umutphp/github-action-dynamic-profile-page-->
