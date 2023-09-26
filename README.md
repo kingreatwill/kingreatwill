@@ -168,7 +168,7 @@ https://github.com/kingreatwill/github-stats/raw/master/generated/languages.svg
 
 **Github Activity Graph:**
 
-![wcoder's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kingreatwill&theme=minimal)
+![wcoder's github activity graph](https://github.com/kingreatwill/github-stats/raw/master/generated/contributions.svg)
 <!-- 
 https://github.com/Ashutosh00710/github-readme-activity-graph 
 
