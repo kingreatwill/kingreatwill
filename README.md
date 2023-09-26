@@ -22,88 +22,88 @@ https://img.shields.io/github/repo-size/openjw/open?style=flat-square
 每个国家计数器
 http://s05.flagcounter.com/index.html
 -->
-<code style="white-space:normal">
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/java">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=java&color=40ba12&logo=java"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/penter">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=python&color=40ba12&logo=python"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/golang">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=go&color=40ba12&logo=go"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/language">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=csharp&color=40ba12&logo=c#"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/js">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=vue&color=40ba12&logo=vue.js"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/flutter">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=flutter&color=40ba12&logo=flutter"/>
   </a>
-</code>
+</span>
 
-<code style="white-space:normal">
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=mysql&color=40ba12&logo=mysql"/>
   </a>
-</code>
-<code style="white-space:normal">
+</span>
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=mssql&color=40ba12&logo=microsoft-sql-server"/>
   </a>
-</code>
-<code style="white-space:normal">
+</span>
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=elastic&color=40ba12&logo=elasticsearch"/>
   </a>
-</code>
-<code style="white-space:normal">
+</span>
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
       <img height="20" src="https://img.shields.io/static/v1?label=used&message=mongo&color=40ba12&logo=mongodb"/>
   </a>
-</code>
-<code style="white-space:normal">
+</span>
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=redis&color=40ba12&logo=redis"/>
   </a>
-</code>
-<code style="white-space:normal">
+</span>
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/DB">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=cassandra&color=40ba12&logo=apache-cassandra"/>
   </a>
-</code>
+</span>
 
-<code style="white-space:normal">
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/BigData">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=bigdata&color=40ba12&logo=apache"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/kubernetes">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=microservices&color=40ba12&logo=kubernetes"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/kubernetes">
     <img height="20" src="https://img.shields.io/static/v1?label=used&message=service-mesh&color=ffa500&logo=server-fault"/>
   </a>
-</code> 
-<code style="white-space:normal">
+</span> 
+<span style="white-space:normal">
   <a href="https://github.com/openjw/open/tree/master/MachineLearning">
     <img height="20" src="https://img.shields.io/static/v1?label=research&message=artificial-intelligence&color=ffa500&logo=tensorflow"/>
   </a>
-</code> 
+</span> 
 <!--
 **kingreatwill/kingreatwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
