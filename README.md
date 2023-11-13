@@ -2,8 +2,9 @@
 Personal site: [wcoder](http://wcoder.com).
 
 Study notes: 
-- python: [kingreatwill/open](http://open.wcoder.com) powered by [mdserve](https://github.com/kingreatwill/mdserve) on docker.
+- python: [kingreatwill/open](http://note.wcoder.com) powered by [mdserve](https://github.com/kingreatwill/mdserve) on docker.
 - golang: [kingreatwill/open](http://note.wcoder.com) powered by [mdserver](https://github.com/kingreatwill/mdserver) on docker.
+- caddy: [kingreatwill/open](http://note.wcoder.com) powered by [mdserver](https://github.com/kingreatwill/caddy-modules) on docker.
 
 **Languages and Tools:**  
 <!--
