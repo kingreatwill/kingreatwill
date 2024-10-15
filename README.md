@@ -177,3 +177,8 @@ https://skyline.github.com/
 https://github.com/yihong0618/GitHubPoster
 -->
 
+![wcoder's github activity graph](https://github.com/kingreatwill/github-stats/raw/master/generated/github-snake.svg)
+![wcoder's github activity graph](https://github.com/kingreatwill/github-stats/raw/master/generated/github-snake-ocean.gif)
+
+
+
